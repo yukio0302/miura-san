@@ -1,0 +1,5 @@
+streamlit
+pandas
+A4
+canvas
+openpyxl
